@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="30px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TitleLayout"
+        android:padding="5dp">
+        <TextView
+            android:text="Edit Profile"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/EditProfileTitle"
+            android:gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profTimeLayout">
+        <TextView
+            android:text="@string/Profilename"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:id="@+id/ProfileNameTxtLabel"
+            android:gravity="center" />
+        <EditText
+            android:layout_height="wrap_content"
+            android:id="@+id/profilenameEditText"
+            android:layout_width="fill_parent"
+            android:layout_weight="0.5"
+            android:gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="100px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/proftimeLayout"
+        android:gravity="center_vertical">
+        <TextView
+            android:text="@string/Profiletime"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:id="@+id/ProfileTimeTxtLabel"
+            android:gravity="center" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:id="@+id/timeLabel"
+            android:gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="100px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stayonTimeLayout">
+        <TextView
+            android:text="@string/Stayontime"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.50"
+            android:id="@+id/StayonforLabel"
+            android:gravity="center" />
+        <TextView
+            android:text="0 minutes"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.50"
+            android:id="@+id/StayontimeTxtLabel"
+            android:gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/Space1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/DaysLayout"
+        android:gravity="center">
+        <TextView
+            android:text="@string/Monday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/mondayTextView"
+            android:layout_margin="5dp"
+            android:clickable="true" />
+        <TextView
+            android:text="@string/Tuesday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/tuesdayTextView"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="@string/Wednesday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/wednesdayTextView"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="@string/Thursday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/thursdayTextView"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="@string/Friday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/fridayTextView"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="@string/Saturday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/saturdayTextView"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="@string/Sunday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/sundayTextView"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/DaysLayout"
+        android:gravity="center">
+        <TextView
+            android:text="@string/Everyday"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/everydayTextView"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/Space2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ActiveLayout"
+        android:gravity="center">
+        <CheckBox
+            android:text="Active"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/ActiveCheckbox"
+            android:layout_marginLeft="0.0dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Space2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/savecancelLayout"
+        android:gravity="center">
+        <Button
+            android:text="@string/Save"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/saveButton" />
+        <Button
+            android:text="@string/Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/cancelButton" />
+    </LinearLayout>
+</LinearLayout>

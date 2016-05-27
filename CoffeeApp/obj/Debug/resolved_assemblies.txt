@@ -1,0 +1,9 @@
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\CoffeeApp.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\Mono.Android.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\mscorlib.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.Core.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.Xml.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Thom\Documents\Google Drive\Informatica\Minor\App\CoffeeApp\CoffeeApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll

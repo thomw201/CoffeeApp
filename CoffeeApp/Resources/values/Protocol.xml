@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="connectcode">2000</string>
+  <string name="requestprofilescode">2101</string>
+  <string name="updateprofilecode">2102</string>
+  <string name="deleteprofilecode">2103</string>
+  <string name="newprofilecode">2104</string>
+  <string name="requestlogscode">2201</string>
+  <string name="requestsettings">2301</string>
+  <string name="switchoundcode">2302</string>
+  <string name="setcolorcode">2303</string>
+  <string name="ledsoffcode">2304</string>
+  <string name="requesttodaysprofiles">2401</string>
+  <string name="requestoverviewcode">2402</string>
+  
+</resources>

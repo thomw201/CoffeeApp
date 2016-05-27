@@ -1,0 +1,40 @@
+CoffeeApp.CoffeeOverview, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.CoffeeOverview
+CoffeeApp.CoffeeOverview, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.CoffeeOverview
+CoffeeApp.CoffeeOverview;md5ac175dc26e86eacab836e0c6a73ed69f.CoffeeOverview
+coffeeapp.CoffeeOverview;md5ac175dc26e86eacab836e0c6a73ed69f.CoffeeOverview
+CoffeeApp.EditProfile, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.EditProfile
+CoffeeApp.EditProfile, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.EditProfile
+CoffeeApp.EditProfile;md5ac175dc26e86eacab836e0c6a73ed69f.EditProfile
+coffeeapp.EditProfile;md5ac175dc26e86eacab836e0c6a73ed69f.EditProfile
+CoffeeApp.Log, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.Log
+CoffeeApp.Log, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.Log
+CoffeeApp.Log;md5ac175dc26e86eacab836e0c6a73ed69f.Log
+coffeeapp.Log;md5ac175dc26e86eacab836e0c6a73ed69f.Log
+CoffeeApp.MainActivity, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.MainActivity
+CoffeeApp.MainActivity, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.MainActivity
+CoffeeApp.MainActivity;md5ac175dc26e86eacab836e0c6a73ed69f.MainActivity
+coffeeapp.MainActivity;md5ac175dc26e86eacab836e0c6a73ed69f.MainActivity
+CoffeeApp.NewProfile, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.NewProfile
+CoffeeApp.NewProfile, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.NewProfile
+CoffeeApp.NewProfile;md5ac175dc26e86eacab836e0c6a73ed69f.NewProfile
+coffeeapp.NewProfile;md5ac175dc26e86eacab836e0c6a73ed69f.NewProfile
+CoffeeApp.ProfileAdapter, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.ProfileAdapter
+CoffeeApp.ProfileAdapter, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.ProfileAdapter
+CoffeeApp.ProfileAdapter;md5ac175dc26e86eacab836e0c6a73ed69f.ProfileAdapter
+coffeeapp.ProfileAdapter;md5ac175dc26e86eacab836e0c6a73ed69f.ProfileAdapter
+CoffeeApp.Profiles, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.Profiles
+CoffeeApp.Profiles, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.Profiles
+CoffeeApp.Profiles;md5ac175dc26e86eacab836e0c6a73ed69f.Profiles
+coffeeapp.Profiles;md5ac175dc26e86eacab836e0c6a73ed69f.Profiles
+CoffeeApp.LogAdapter, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.LogAdapter
+CoffeeApp.LogAdapter, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.LogAdapter
+CoffeeApp.LogAdapter;md5ac175dc26e86eacab836e0c6a73ed69f.LogAdapter
+coffeeapp.LogAdapter;md5ac175dc26e86eacab836e0c6a73ed69f.LogAdapter
+CoffeeApp.Settings, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.Settings
+CoffeeApp.Settings, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.Settings
+CoffeeApp.Settings;md5ac175dc26e86eacab836e0c6a73ed69f.Settings
+coffeeapp.Settings;md5ac175dc26e86eacab836e0c6a73ed69f.Settings
+CoffeeApp.TimePickerFragment, CoffeeApp;md5ac175dc26e86eacab836e0c6a73ed69f.TimePickerFragment
+CoffeeApp.TimePickerFragment, CoffeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac175dc26e86eacab836e0c6a73ed69f.TimePickerFragment
+CoffeeApp.TimePickerFragment;md5ac175dc26e86eacab836e0c6a73ed69f.TimePickerFragment
+coffeeapp.TimePickerFragment;md5ac175dc26e86eacab836e0c6a73ed69f.TimePickerFragment

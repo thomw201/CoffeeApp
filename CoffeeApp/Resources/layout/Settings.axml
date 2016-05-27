@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="30px"
+    android:minHeight="30px"
+    android:paddingLeft="5dp"
+    android:paddingBottom="2dp"
+    android:paddingTop="2dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:weightSum="75">
+        <TextView
+            android:text="Sound"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:id="@+id/setting"
+            android:padding="5dp" />
+        <ToggleButton
+            android:layout_width="0dp"
+            android:id="@+id/soundToggleButton"
+            android:layout_height="wrap_content"
+            android:layout_weight="25"
+            android:textOff="Disabled"
+            android:textOn="Enabled" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="75"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Overview update interval (ms)"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:id="@+id/OverviewUpdate"
+            android:padding="5dp" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="25"
+            android:id="@+id/OverviewUpdateTxt" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="75"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Main update interval (ms)"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:id="@+id/setting"
+            android:padding="5dp" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="25"
+            android:id="@+id/mainUpdateIntervalTxt"
+            android:inputType="number" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="75"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Time update interval (ms)"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:id="@+id/setting"
+            android:padding="5dp" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="25"
+            android:id="@+id/timeUpdateIntervalTxt" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="100"
+        android:layout_weight="50"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="LED"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:id="@+id/ledtxt"
+            android:padding="5dp" />
+        <Button
+            android:text="R"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_weight="10"
+            android:id="@+id/Rbutton" />
+        <Button
+            android:text="G"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_weight="10"
+            android:id="@+id/Gbutton" />
+        <Button
+            android:text="B"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_weight="10"
+            android:id="@+id/Bbutton" />
+        <Button
+            android:text="OFF"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_weight="20"
+            android:id="@+id/OFFbutton" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="100px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:gravity="center_horizontal">
+        <Button
+            android:text="Pin Info"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/pininfoButton" />
+        <Button
+            android:text="Save"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/saveButton" />
+        <Button
+            android:text="About"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/aboutButton" />
+    </LinearLayout>
+</LinearLayout>
